@@ -53,7 +53,7 @@ export const TEACHERS: Teacher[] = [
     grade: "Kelas 12",
     title: "Wali Kelas Ketiga",
     name: "Mrs. Ferderika Henderika, S.Pd.",
-    tagline: "The Final hapter.",
+    tagline: "The Final Chapter.",
     photo: "/images/teacher-12.jpg",
     subject: "Biology",
     years: "2019 — 2020",
@@ -396,14 +396,14 @@ export const MOMENTS: Moment[] = [
   {
     icon: "flame",
     grade: "Grade 11",
-    title: "Festival Night",
-    text: "Stage fright, borrowed costumes, and a crowd that chanted our class name like a headline.",
+    title: "Rapat Kebun",
+    text: "Moment lomba kebun terbaik yang hampir setiap hari dirapatkan. bahkan obrolan biasa pun dianggap rapat kebun",
   },
   {
     icon: "cloud",
     grade: "Kelas 12",
     title: "Bimbel",
-    text: "Bimbel sore yang masuk telinga kiri keluar telinga kanan",
+    text: "Bimbel sore yang masuk telinga kiri keluar telinga kanan, moment terseru setelah bimbel hujan turun dan lagu Hujan by: Utopia pun diputar",
   },
   {
     icon: "camera",

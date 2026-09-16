@@ -97,9 +97,6 @@ export default function MemoryWall() {
                   className={`w-full object-cover ${m.tall ? "h-96" : "h-64"}`}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/10 to-transparent opacity-80 group-hover:opacity-100 transition-opacity" />
-                <span className="absolute top-3 left-3 text-[10px] tracking-[0.25em] uppercase px-3 py-1.5 rounded-full bg-black/55 backdrop-blur border border-white/15 text-white/80">
-                  {m.category}
-                </span>
                 <span className="absolute top-3 right-3 w-9 h-9 grid place-items-center rounded-full bg-black/55 backdrop-blur border border-white/15 opacity-0 group-hover:opacity-100 transition-opacity">
                   <Expand size={14} />
                 </span>

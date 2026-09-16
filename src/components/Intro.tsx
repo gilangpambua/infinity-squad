@@ -44,10 +44,10 @@ export default function Intro() {
                 cengar-cengir kebingungan cari tempat duduk dimana.
               </p>
               <p>
-                Di antara pulpen-pulpen yang hilang dipinjam, jam istirahat
-                makan siang yang riuh, dan panggilan belajar pukul 02.00 dini
-                hari, lintasan-lintasan itu bersatu. Arsip ini adalah bukti
-                bahwa hal itu benar-benar terjadi. ANJAYYY
+                Di antara banyaknya pulpen yang hilang dipinjam, jam istirahat
+                makan siang yang riuh, dan panggilan belajar pukul 14.00 dini
+                hari, orbit-orbit itupun akhirnya bersatu. Arsip ini adalah
+                bukti bahwa hal itu benar-benar terjadi. ANJAYYY
               </p>
             </div>
           </Reveal>
@@ -82,11 +82,11 @@ export default function Intro() {
             </div>
             <Reveal delay={0.16}>
               <p className="mt-8 max-w-xl text-sm leading-relaxed text-white/50 font-light">
-                “Fun fact : Website ini dibuat karena kegabutan di Kontrakan
-                Beriman, Daerah Istimewa Yogyakarta. Namun karena developer
-                malas jadi proyek ini mangkrak selama 2 tahun. Kemudian akhirnya
-                ada niat terkumpul selama 2 tahun itu dan website inipun
-                akhirnya jadi setelah tidak tersentuh selama 63.072.000 detik.”
+                “Fun fact : Web ini dibuat karena kegabutan di Kontrakan
+                Beriman, Jogja. Namun karena developernya pamalas jadi proyek
+                ini mangkrak selama 2 tahun. Kemudian akhirnya ada niat
+                terkumpul selama 2 tahun itu dan website inipun akhirnya jadi
+                setelah tidak tersentuh selama 63.072.000 detik.”
               </p>
             </Reveal>
           </Reveal>

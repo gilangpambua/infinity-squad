@@ -28,7 +28,7 @@ export default function Finale() {
         </Reveal>
         <Reveal delay={0.2}>
           <p className="mt-8 text-xl md:text-2xl text-white/60 font-light">
-            Mungkin kelas sudah berakhir yah gess.
+            Mungkin kelas udah berakhir yah gess.
           </p>
           <p className="mt-2 font-display italic text-2xl md:text-4xl text-white/90">
             Tapi moment dan cerita itu tidak akan pernah berakhir

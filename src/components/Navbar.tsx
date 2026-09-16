@@ -96,9 +96,6 @@ export default function Navbar() {
           onClick={() => setOpen(false)}
         />
         <div className="relative h-full flex flex-col justify-center px-10 gap-2">
-          <p className="text-[11px] tracking-[0.4em] text-[#9ec5ff]/70 uppercase mb-6">
-            Navigate the archive
-          </p>
           {[...LINKS, { label: "Explore the Squad", href: "#squad" }].map(
             (l, i) => (
               <a

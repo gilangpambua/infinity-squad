@@ -24,7 +24,7 @@ export default function Teachers() {
               </span>
             </>
           }
-          sub="“3 Tahun, 3 Wali Kelas, 3+3 = 6”"
+          sub="“3 Tahun, 3 Wali Kelas, 3+3 = 7?”"
           align="center"
         />
 
