@@ -403,7 +403,7 @@ export const MOMENTS: Moment[] = [
     icon: "cloud",
     grade: "Kelas 12",
     title: "Bimbel",
-    text: "Bimbel sore yang masuk telinga kiri keluar telinga kanan, moment terseru setelah bimbel hujan turun dan lagu Hujan by: Utopia pun diputar",
+    text: "Bimbel sore yang masuk telinga kiri keluar telinga kanan, moment terseru setelah bimbel hujan turun dan lagu Hujan by: Utopia pun diputar  ",
   },
   {
     icon: "camera",
