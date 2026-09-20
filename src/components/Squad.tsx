@@ -4,7 +4,14 @@ import { STUDENTS, type Student } from "../data/squad";
 import { Reveal, SectionHead } from "./ui";
 import Avatar from "./Avatar";
 
-const FILTERS = ["All", "Badut Kelas", "Sad Boy", "Masyarakat", "Ketua Kebun"];
+const FILTERS = [
+  "All",
+  "Badut Kelas",
+  "Sad Boy",
+  "Masyarakat",
+  "Ketua Kebun",
+  "Orang Havefun",
+];
 
 function matches(s: Student, f: string) {
   if (f === "All") return true;
@@ -27,6 +34,13 @@ function matches(s: Student, f: string) {
       r.includes("tidak") ||
       r.includes("lucifer") ||
       r.includes("guru")
+    );
+  if (f === "Orang Havefun")
+    return (
+      r.includes("ketua") ||
+      r.includes("wakil") ||
+      r.includes("sekretaris") ||
+      r.includes("bendahara")
     );
 }
 
